@@ -81,13 +81,3 @@ The Denodo layer enables real-time data access, so the sentiment analysis model 
 
 This architecture ensures the system is **scalable**, **flexible**, and capable of providing up-to-the-minute insights based on the most recent data available.
 
----
-
-## Conclusion
-
-This repository offers a powerful sentiment analysis engine that integrates data from Oracle XE, virtualized via Denodo, and processed through Google Colab. The system enables **real-time data access** and provides actionable insights into customer sentiment across different banks. The analysis can be tailored for specific banks or provide a general overview, making this tool flexible for different use cases.
-
-For a detailed walkthrough on setting up and running this project, please refer to the **Installation** and **Usage** sections in the repository.
-
----
-
